@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92091ca7-1e78-4623-a8ef-57cd7056281d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../springboot2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot2/.idea/springboot2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot2/springboot_01_01/src/main/java/com/lianghaozhang/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-demo/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-demo/feign-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-demo/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyAnno01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyAnno01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyField.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/Annotation/MyTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/Beans/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/Beans/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/Beans/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/Beans/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/ThreadDemo/Thread_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/ThreadDemo/Thread_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/ThreadDemo/Thread_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/ThreadDemo/Thread_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/main/java/ThreadDemo/Thread_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/main/java/ThreadDemo/Thread_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/test/java/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/test/java/Reflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/test/java/Reflection_Annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/test/java/Reflection_Annotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/test/java/Thread1_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/test/java/Thread1_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/test/java/Thread2_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/test/java/Thread2_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/src/test/java/Thread3_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/src/test/java/Thread3_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/spring_ioc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/spring_ioc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/anno/MyComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/anno/MyComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/beans/AAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/beans/AAA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/beans/Abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/beans/Abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/beans/BBB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/beans/BBB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/factory/MyBeanModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/factory/MyBeanModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/factory/MyBeanModel3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/factory/MyBeanModel3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/factory/MyBeanModel_static.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/factory/MyBeanModel_static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanDefinitionRegistryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanDefinitionRegistryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanFactoryPostProcessor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanFactoryPostProcessor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/processor/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/utils/BaseClassScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/java/com/lianghaozhang/utils/BaseClassScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/MyBeanPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/MyBeanPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/applicationContext-1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/applicationContext-1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/applicationContext-2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/applicationContext-2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/myBeanDefinitionRegistryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/myBeanDefinitionRegistryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/myBeanFactoryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/myBeanFactoryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/noZiDingYiBean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/noZiDingYiBean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/profiledemo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/main/resources/profiledemo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/ApplicationContextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/ApplicationContextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/BeanFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/BeanFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanDefinitionRegistryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanDefinitionRegistryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanFactoryPostProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanFactoryPostProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanFactoryPostProcessorTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanFactoryPostProcessorTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanPostProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/MyBeanPostProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/NoZiDingYiBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/NoZiDingYiBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/PropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/src/test/java/PropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/MyBeanPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/MyBeanPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/applicationContext-1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/applicationContext-1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/applicationContext-2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/applicationContext-2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/myBeanDefinitionRegistryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/myBeanDefinitionRegistryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/myBeanFactoryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/myBeanFactoryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/noZiDingYiBean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/noZiDingYiBean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/profiledemo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_ioc/target/classes/profiledemo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/aaa/bbb/ccc/ddd/TTT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/aaa/bbb/ccc/ddd/TTT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/anno/MyComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/anno/MyComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/beans/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/beans/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/beans/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/beans/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/beans/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/beans/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/MyBeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/MyBeanDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/beans/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/look.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/look.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/start/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/start/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/utils/ScanPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/my/utils/ScanPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/myJunit/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/myJunit/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/myJunit/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/myJunit/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanDefinitionRegistryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanDefinitionRegistryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanDefinitionRegistryPostProcessor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanDefinitionRegistryPostProcessor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/TestMyBeanDefinitionRegistryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/processor/TestMyBeanDefinitionRegistryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/reflect/MyReflect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/reflect/MyReflect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/reflect/demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/reflect/demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/startApplication/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/startApplication/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/startApplication/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/java/com/lianghaozhang/startApplication/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/beanDefinitionRegistryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/beanDefinitionRegistryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/myBeanFactoryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/myBeanFactoryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/myBeanPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/src/main/resources/myBeanPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/target/classes/beanDefinitionRegistryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/target/classes/beanDefinitionRegistryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/target/classes/myBeanFactoryPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/target/classes/myBeanFactoryPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring_my/target/classes/myBeanPostProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring_my/target/classes/myBeanPostProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/Dynamic_classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/Dynamic_classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/cssesc.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/cssesc.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/esbuild.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/esbuild.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/json5.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/json5.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/nanoid.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/nanoid.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/parser.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/parser.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/rollup.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/rollup.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/vite.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/.bin/vite.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@types/estree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@types/estree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vitejs/plugin-vue/dist/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vitejs/plugin-vue/dist/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.global.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-dom/dist/compiler-dom.global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-sfc/dist/compiler-sfc.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-sfc/dist/compiler-sfc.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-sfc/dist/compiler-sfc.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-sfc/dist/compiler-sfc.esm-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-ssr/dist/compiler-ssr.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-ssr/dist/compiler-ssr.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-ssr/dist/compiler-ssr.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/compiler-ssr/dist/compiler-ssr.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.cjs.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.cjs.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.esm-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.global.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/reactivity/dist/reactivity.global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/ref-transform/dist/ref-transform.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/ref-transform/dist/ref-transform.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/ref-transform/dist/ref-transform.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/ref-transform/dist/ref-transform.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.cjs.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.cjs.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.cjs.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.cjs.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.global.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/runtime-dom/dist/runtime-dom.global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.cjs.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.cjs.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/@vue/shared/dist/shared.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/LICENCE" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/LICENCE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/big.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/big.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/big.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/big.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/big.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/big.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/big.js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-0d2f9464.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-0d2f9464.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-1be34a63.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-1be34a63.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-afe9ad01.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-afe9ad01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-b541373d.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/chunks/dep-b541373d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vite/dist/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.cjs.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.cjs.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.esm-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.global.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.runtime.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.runtime.esm-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.runtime.esm-bundler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.runtime.esm-bundler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.runtime.global.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/h/LearnV3/node_modules/vue/dist/vue.runtime.global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../vue3/hello.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2si11JWyWMOJR6Iq0j908dNJct4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "home",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/aniu/daima/springcloud/cloud-demo",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92091ca7-1e78-4623-a8ef-57cd7056281d" name="Changes" comment="" />
+      <created>1738923364382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738923364382</updated>
+      <workItem from="1738923365453" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
